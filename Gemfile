@@ -15,7 +15,7 @@ group :assets do
   gem 'compass-rails',  '~> 1.0.2'
   gem 'sass-rails',     '~> 3.2.4'
   gem 'coffee-rails',   '~> 3.2.2'
-  gem 'uglifier',       '~> 1.2.4'
+  gem 'uglifier',       '~> 2.7.2'
 
   # If you run your engine on **Linux,** you also have to add the following gem
   # See https://github.com/sstephenson/execjs#readme for more supported runtimes
